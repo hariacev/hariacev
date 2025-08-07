@@ -16,6 +16,7 @@ Técnico en Programación de Software, SENA.
 </ul>
 <h2>Habilidades Blandas</h2>
 <ul>
+  <li>Toma de decisiones</li>
   <li>Pensamiento crítico</li>
   <li>Capacidad analítica</li>
 </ul>
