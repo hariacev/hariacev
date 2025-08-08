@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <h2>Actualmente</h2>
-<p>Etapa lectiva terminada y a la espera de prácticas como Técnologo en Análisis y Desarollo de Software del SENA</p>
+<p>Etapa lectiva terminada y a la espera de prácticas para culminar la Técnología en Análisis y Desarollo de Software del SENA</p>
 <h2>Experiencia laboral</h2>
 Analista de operaciónes Junior en proyecto de Vending
 <h2>Estudios</h2>
