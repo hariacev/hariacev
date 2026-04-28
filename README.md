@@ -6,7 +6,7 @@
 <p>Técnico Profesional en Programación de Software</p>
 <h2>Experiencia laboral</h2>
 <ul>
-  <li>Tecnólogo en Anánlisis y Desarrollo de Software</li>
+  <li>Tecnólogo en Anánlisis y Desarrollo de Software en el sector inmobiliario</li>
   <li>Analista de operaciónes Junior en proyecto de Vending</li>
 </ul>
 <h2>Estudios</h2>
