@@ -15,7 +15,7 @@ Técnico en Programación de Software, SENA.
 <ul>
   <li>Fundamentos en Marco metodológico SCRUM</li>
   <li>Fundamentos en Programación Orientada a Objetos</li>
-  <li>Fundamentos de Diseño de Software Orientado a Objetos</li>
+  <li>Fundamentos de HTML, CSS, SQL, Java, JavaScript</li>
 </ul>
 <h2>Habilidades Blandas</h2>
 <ul>
