@@ -24,4 +24,4 @@ Técnico en Programación de Software, SENA.
   <li>Capacidad analítica</li>
 </ul>
 <h2>Lenguajes, Tecnologías y Herramientas</h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,vscode" />
